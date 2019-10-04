@@ -6,7 +6,7 @@ A retrospective on phase 1 of the Marvel Cinimatic Universe. You can visit marve
 ## Requirements
 Use a modern browser
 
-You'll need git installed locally, as well as a preprocessor like SASS for CSS compilation.A good code editor helps too.
+You'll need git installed locally, as well as a preprocessor like SASS for CSS compilation.A good code editor helps too!
 
 Built with:
 HTML
